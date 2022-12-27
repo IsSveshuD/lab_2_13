@@ -10,6 +10,9 @@ if __name__ == '__main__':
 
     while True:
         command = input(">>> ").lower()
+        """
+        Меню команд для взаимодействия с программой.
+        """
         if command == 'exit':
             break
 
